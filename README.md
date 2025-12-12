@@ -1,5 +1,5 @@
 <h1 align="center">💻 Hey, I'm 2funny 💻</h1>
-<h3 align="center">🔥 Developer and Automation Addict from Germany 🔥</h3>
+<h3 align="center">🔥 German Developer obsessed with Automation & Cybersecurity 🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2funny9&label=Profile%20views&color=0e75b6&style=flat" alt="2funny9" /> </p>
 
