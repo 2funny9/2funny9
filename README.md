@@ -26,7 +26,7 @@
 
 ## 🌱 Get into Development (Goals)
 
-* Master Linux (Arch, Ubuntu, Kali, REMnux) and Windows (10 & 11)
+* Master Windows (10 & 11)
 * Learn Python deeply
 * Understand API design and integration
 * Build automation Tools and Bots
@@ -63,30 +63,7 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a>
 </p>
 
-### Other Tools (Beispiele aus Swezys Liste, basierend auf Knowledge Areas)
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/VMware_Workstation-607D8B?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation"/>
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-    <img src="https://img.shields.io/badge/Nmap-F7931E?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-    <img src="https://img.shields.io/badge/Ghidra-4D4D4D?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra"/>
-    <img src="https://img.shields.io/badge/IDA_Pro-FF8C00?style=for-the-badge&logo=ida-pro&logoColor=white" alt="IDA Pro"/>
-    <img src="https://img.shields.io/badge/X64dbg-000000?style=for-the-badge&logo=x64dbg&logoColor=white" alt="X64DBG"/>
-    <img src="https://img.shields.io/badge/MitM_Proxy-0099CC?style=for-the-badge&logo=mitm-proxy&logoColor=white" alt="MitM Proxy"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
----
 
 ## 🚀 Current Focus
 
