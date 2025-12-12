@@ -41,14 +41,12 @@
 ## 🧠 Knowledge Areas
 
 * Reverse Engineering & Malware Analysis
-* API Design & RESTful Service Integration
-* Session & Process Management
-* Automation with Schedulers, Webhooks & Bots
-* License & Key-Based Authentication Systems
+* Website Designing
+* Discord Bots
 * Network Monitoring & Proxy Interception
 * Fullstack Development (Frontend $\leftrightarrow$ Backend)
-* CLI & GUI Tool Development
-* Working with Windows (10 & 11) and Linux (Mainly Arch, Ubuntu, Kali & REMnux)
+* Gui Development
+* Working with Windows (10 & 11)
 * Vulnerability Research & Exploit Discovery
 
 ---
@@ -67,11 +65,9 @@
 
 ## 🚀 Current Focus
 
-* Building and refining **Payment Systems** with secure handling, validation mechanisms, and automation.
-* Implementing **License Key Generation & Verification** workflows.
-* Developing **Automation Tools** for efficient deployment, session management, and service control.
-* Integrating **Real-Time Monitoring** and reporting for transactions, system health, and license status.
-* Uploading and Revamping old projects on GitHub.
+* Building an **Payment System** with secure Payments.
+* Developing **Automation Tools** For Customer Serice (ai).
+* Uploading old projects on GitHub.
 
 ---
 
