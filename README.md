@@ -18,7 +18,7 @@
 ## 💡 About Me
 
 * I am a **German Developer** obsessed with **Automation** & **Cybersecurity**.
-* Currently learning **C++**.
+* Currently learning **Lua And HTML**.
 * Interested in Cybersecurity, Automation, and Fullstack Development.
 * My main programming language is **Python**.
 
